@@ -99,8 +99,26 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 </p>
 
 
+## 📈 My GitHub Stats <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
+![](https://allhacked.com/up/2019/03/hello-world.gif)
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
+
+
+<div align=center>
+          <img alt="gif" align="center" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width=300 height=300/>
+    </div>
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahsan+Tariq+%F0%9F%91%8B;Computer+System+Engineer;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
+    </div>
+
+
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+
+### 🏆 Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ahsantariq7&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

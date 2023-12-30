@@ -122,3 +122,87 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 
 
 
+### 📊 Overall Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ahsantariq7/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq7&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/ahsantariq7/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq7&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ahsantariq7&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<table width="100%"> 
+  <tr>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq7&show_icons=true&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsantariq7&layout=compact&langs_count=8&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsantariq7&amp;langs_count=8&amp;theme=algolia">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class ComputerEngineer:
+    def __init__(self):
+        self.name    = "Ahsan Tariq"
+        self.role    = "Data Scientist, Backend Developer"
+        self.contact = "ahsantariq0724@gmail.com"
+        self.work    = "Data Scientist, Web Developer"
+        self.learn   = "Coding"
+    
+    def getCity():
+        return pakistan_bahawalpur()
+
+me = python_developer()
+```
+
+
+
+
+
+
+
+
+
+
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/ahsantariq7/count.svg" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/ahsantariq7/ahsantariq7/blob/main/eesa.gif">
+</p>
+
+
+
